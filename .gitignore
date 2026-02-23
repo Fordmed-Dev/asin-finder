@@ -1,0 +1,5 @@
+cron.log
+asinFinderOutput.csv.checkpoint.json
+asinFinderOutput.csv.sqlite
+criteria.txt
+asinFinderOutput.csv
