@@ -1,0 +1,1 @@
+This repo finds asins via your criteria. Just create a criteria.txt and add your criteria ex. model, partNumber, title, brand and etc.
